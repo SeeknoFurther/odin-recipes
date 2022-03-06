@@ -1,0 +1,14 @@
+/* css style sheet for odin recipes */
+.container .text {
+    font-family:'Courier New', Courier, monospace;
+    color:darkseagreen;
+}
+
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: #deb887;
+    background-color: royalblue;
+    text-align: center;
+}
+
